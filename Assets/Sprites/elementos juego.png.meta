@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: a12edc08fd356ee44b09bf2f19a74f57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4589081669374860233
+    second: elementos juego_0
+  - first:
+      213: -745111823220336052
+    second: elementos juego_1
+  - first:
+      213: 2538295137118738507
+    second: elementos juego_2
+  - first:
+      213: -6834251172525400466
+    second: elementos juego_3
+  - first:
+      213: -2657744066762735888
+    second: elementos juego_4
+  - first:
+      213: 97966330557015541
+    second: elementos juego_5
+  - first:
+      213: -8344396895052401704
+    second: elementos juego_6
+  - first:
+      213: -5869898528807816137
+    second: elementos juego_7
+  - first:
+      213: -5727663798024400708
+    second: elementos juego_8
+  - first:
+      213: 6708847649522357778
+    second: elementos juego_9
+  - first:
+      213: -5729405757362190373
+    second: elementos juego_10
+  - first:
+      213: 4373449011024174288
+    second: elementos juego_11
+  - first:
+      213: 3919244437017961975
+    second: elementos juego_12
+  - first:
+      213: 4118276964014573075
+    second: elementos juego_13
+  - first:
+      213: 3888662794313781161
+    second: elementos juego_14
+  - first:
+      213: 8638839889796503835
+    second: elementos juego_15
+  - first:
+      213: -869227229881727050
+    second: elementos juego_16
+  - first:
+      213: 2892554645136797858
+    second: elementos juego_17
+  - first:
+      213: 8477222758787203366
+    second: elementos juego_18
+  - first:
+      213: -8972179330433101807
+    second: elementos juego_19
+  - first:
+      213: -6950504055214498951
+    second: elementos juego_20
+  - first:
+      213: 3107739940687569483
+    second: elementos juego_21
+  - first:
+      213: 5256511325720670218
+    second: elementos juego_22
+  - first:
+      213: 4143991242144251076
+    second: elementos juego_23
+  - first:
+      213: -6965678327267650094
+    second: elementos juego_24
+  - first:
+      213: 952488955653940702
+    second: elementos juego_25
+  - first:
+      213: -3232692599580864054
+    second: elementos juego_26
+  - first:
+      213: 1864256458362546975
+    second: elementos juego_27
+  - first:
+      213: 8695474635498104717
+    second: elementos juego_28
+  - first:
+      213: -873733228747394163
+    second: elementos juego_29
+  - first:
+      213: -1030999963279174437
+    second: elementos juego_30
+  - first:
+      213: 8313585481402105033
+    second: elementos juego_31
+  - first:
+      213: -4647146968260232380
+    second: elementos juego_32
+  - first:
+      213: -3435119242109527705
+    second: elementos juego_33
+  - first:
+      213: -8848262826587103876
+    second: elementos juego_34
+  - first:
+      213: -7014865689230216930
+    second: elementos juego_35
+  - first:
+      213: -1613441317780315541
+    second: elementos juego_36
+  - first:
+      213: -5788170385664228844
+    second: elementos juego_37
+  - first:
+      213: -8647954194348463763
+    second: elementos juego_38
+  - first:
+      213: -2583542562821986875
+    second: elementos juego_39
+  - first:
+      213: -1469316197119631107
+    second: elementos juego_40
+  - first:
+      213: -70379775560125857
+    second: elementos juego_41
+  - first:
+      213: 3673183086905066399
+    second: elementos juego_42
+  - first:
+      213: 2735522165532935439
+    second: elementos juego_43
+  - first:
+      213: 4784144904772536230
+    second: elementos juego_44
+  - first:
+      213: -5037340476543789947
+    second: elementos juego_45
+  - first:
+      213: 2970938509496628934
+    second: elementos juego_46
+  - first:
+      213: -7134062285315420570
+    second: elementos juego_47
+  - first:
+      213: 698293865879521015
+    second: elementos juego_48
+  - first:
+      213: -704882167877966913
+    second: elementos juego_49
+  - first:
+      213: 9111343594493747429
+    second: elementos juego_50
+  - first:
+      213: 8034881467482471607
+    second: elementos juego_51
+  - first:
+      213: -2116448095278050772
+    second: elementos juego_52
+  - first:
+      213: 5885457901757034160
+    second: elementos juego_53
+  - first:
+      213: -4342440568202329197
+    second: elementos juego_54
+  - first:
+      213: -7685450738508419077
+    second: elementos juego_55
+  - first:
+      213: -1182524814652679589
+    second: elementos juego_56
+  - first:
+      213: 1834224105628965904
+    second: elementos juego_57
+  - first:
+      213: -5598082836990843446
+    second: elementos juego_58
+  - first:
+      213: 7891585943667966981
+    second: elementos juego_59
+  - first:
+      213: -7290902382330647187
+    second: elementos juego_60
+  - first:
+      213: 7183452303023926985
+    second: elementos juego_61
+  - first:
+      213: 8873001797624289024
+    second: elementos juego_62
+  - first:
+      213: 3117198367503675615
+    second: elementos juego_63
+  - first:
+      213: -4202443581801073087
+    second: elementos juego_64
+  - first:
+      213: 3069779765953806326
+    second: elementos juego_65
+  - first:
+      213: 4398380482122354482
+    second: elementos juego_66
+  - first:
+      213: 8272366545206711890
+    second: elementos juego_67
+  - first:
+      213: 633857069015468994
+    second: elementos juego_68
+  - first:
+      213: -4287065580484951451
+    second: elementos juego_69
+  - first:
+      213: -6681462170101061215
+    second: elementos juego_70
+  - first:
+      213: -2247764026063179924
+    second: elementos juego_71
+  - first:
+      213: -4161367447854010917
+    second: elementos juego_72
+  - first:
+      213: 4950800794876872900
+    second: elementos juego_73
+  - first:
+      213: 3702675505703478788
+    second: elementos juego_74
+  - first:
+      213: -5421014817057908763
+    second: elementos juego_75
+  - first:
+      213: -3980992338612167521
+    second: elementos juego_76
+  - first:
+      213: -6887150344114187251
+    second: elementos juego_77
+  - first:
+      213: -1215886800885097781
+    second: elementos juego_78
+  - first:
+      213: -5911152941037601829
+    second: elementos juego_79
+  - first:
+      213: -2539179910002155017
+    second: elementos juego_80
+  - first:
+      213: 7138394239635356750
+    second: elementos juego_81
+  - first:
+      213: 6739596495955315413
+    second: elementos juego_82
+  - first:
+      213: -7190327957458238489
+    second: elementos juego_83
+  - first:
+      213: -2703308559657107607
+    second: elementos juego_84
+  - first:
+      213: -2554636566081384668
+    second: elementos juego_85
+  - first:
+      213: -1474039373504801289
+    second: elementos juego_86
+  - first:
+      213: -2240135979973397622
+    second: elementos juego_87
+  - first:
+      213: -4038285318171465790
+    second: elementos juego_88
+  - first:
+      213: -2014261002926068696
+    second: elementos juego_89
+  - first:
+      213: 1190429492690199685
+    second: elementos juego_90
+  - first:
+      213: -4828124894997415059
+    second: elementos juego_91
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elementos juego_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a7a3298e4050c0800000000000000
+      internalID: -4589081669374860233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 172
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a120b9eb4d8a5f0800000000000000
+      internalID: -745111823220336052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 167
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48501f8af5d93320800000000000000
+      internalID: 2538295137118738507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 166
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e93db94ccd721a0800000000000000
+      internalID: -6834251172525400466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 172
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe74b44adbcd1bd0800000000000000
+      internalID: -2657744066762735888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 166
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5accccbdb0c5100800000000000000
+      internalID: 97966330557015541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d377850c3fb23c80800000000000000
+      internalID: -8344396895052401704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73472da536ee98ea0800000000000000
+      internalID: -5869898528807816137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb014e54f104380b0800000000000000
+      internalID: -5727663798024400708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2169ef9646d9a1d50800000000000000
+      internalID: 6708847649522357778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 108
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd74952c1df0d70b0800000000000000
+      internalID: -5729405757362190373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 108
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc116934bc91bc30800000000000000
+      internalID: 4373449011024174288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 71
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5a168ec04f36630800000000000000
+      internalID: 3919244437017961975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31643c6441f072930800000000000000
+      internalID: 4118276964014573075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 50
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc95a553e47f530800000000000000
+      internalID: 3888662794313781161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b199bc6fb1353e770800000000000000
+      internalID: 8638839889796503835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elementos juego_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 50
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b78dc59072efe3f0800000000000000
+      internalID: -869227229881727050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      elementos juego_0: -4589081669374860233
+      elementos juego_1: -745111823220336052
+      elementos juego_10: -5729405757362190373
+      elementos juego_11: 4373449011024174288
+      elementos juego_12: 3919244437017961975
+      elementos juego_13: 4118276964014573075
+      elementos juego_14: 3888662794313781161
+      elementos juego_15: 8638839889796503835
+      elementos juego_16: -869227229881727050
+      elementos juego_2: 2538295137118738507
+      elementos juego_3: -6834251172525400466
+      elementos juego_4: -2657744066762735888
+      elementos juego_5: 97966330557015541
+      elementos juego_6: -8344396895052401704
+      elementos juego_7: -5869898528807816137
+      elementos juego_8: -5727663798024400708
+      elementos juego_9: 6708847649522357778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
